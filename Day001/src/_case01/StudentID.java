@@ -13,7 +13,9 @@ public class StudentID {
         System.out.println(state);
         System.out.println(phone);
         System.out.println(id);
-
+        int l=10000;
+        byte age1 = (byte)l; //格式： 小数据类型 变量名= (小数据类型)大数据类型的变量；
+        System.out.println(age);
     }
 
 
