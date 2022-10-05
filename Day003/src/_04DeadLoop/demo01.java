@@ -18,7 +18,7 @@ public class demo01 {
         }
 
         //while 循环的死循环                                                        (true){
-            System.out.println("Hello Worldtr5666666666666666666666666666666666666666666666666666666666666666");
-        }
+/*            System.out.println("Hello Worldtr");
+        }*/
     }
 }
