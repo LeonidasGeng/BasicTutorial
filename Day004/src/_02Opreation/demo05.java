@@ -16,7 +16,7 @@ public class demo05 {
         int age = sc.nextInt();
         for (int i = 0; i < 5; i++) {
             System.out.println("请输入第"+i+"学生的年龄： ");
-            int age = sc.nextInt();
+            int arr = sc.nextInt();
             arr[i]=age;
 
         }
