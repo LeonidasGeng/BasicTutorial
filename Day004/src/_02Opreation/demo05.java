@@ -8,18 +8,19 @@ import java.util.Scanner;
  */
 public class demo05 {
     public static void main(String[] args) {
-        //1,定义一个长度为5的数组
+        //1,定义一个的数组,长度为5
         int[] arr = new int[5];
         //2,提示用户录入5名学生的年龄，并且存储到数组中
         Scanner sc = new Scanner(System.in);
-        System.out.println("请输入学生的年龄： ");
-        int age = sc.nextInt();
         for (int i = 0; i < 5; i++) {
-            System.out.println("请输入第"+i+"学生的年龄： ");
-            int arr = sc.nextInt();
+            System.out.println("请输入第"+(i+1)+"学生的年龄： ");
+            int age = sc.nextInt();
             arr[i]=age;
-
         }
+        System.out.print("他们的年龄分别是：");
         //3,遍历数组
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i]+",");
+        }
     }
 }
