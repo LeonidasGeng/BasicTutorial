@@ -1,10 +1,10 @@
 package _02calculation;
 /*
- +， -， *， /， %(取余数）
+ +, -, *, /, %(取余数）
  */
 public class demo01 {
     public static void main(String[] args) {
-        //1，定义两个变量
+        //1,定义两个变量
         int a = 12;
         int b =4;
 

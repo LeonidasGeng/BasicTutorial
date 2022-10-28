@@ -2,7 +2,7 @@ package _01Methods;
 /*
 数组作为形参
 
-需求：定义一个方法，获取到数组中最大元素，并打印出来
+需求：定义一个方法,获取到数组中最大元素,并打印出来
  */
 public class demo05 {
     public static void main(String[] args) {
@@ -15,11 +15,11 @@ public class demo05 {
     }
 
     public static void getMax(int[] arr){
-        //1，假设索引值为0的元素为最大值，然后与后面所有的元素进行比较
+        //1,假设索引值为0的元素为最大值,然后与后面所有的元素进行比较
         int max = arr[0];
         //2,遍历数组
         for (int i = 0; i < arr.length; i++) {
-            //如果数组中的值比max大，那么max = arr[i]
+            //如果数组中的值比max大,那么max = arr[i]
             if (arr[i]>max){
                 max = arr[i];
             }

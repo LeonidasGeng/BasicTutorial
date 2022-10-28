@@ -1,7 +1,7 @@
 package _04Compair;
 /*
  ==等于 !=不等于 >大于 <小于 >=大于等于 <=小于等于
- 结果一定是布尔类型boolean, true 条件成立，false 条件不成立
+ 结果一定是布尔类型boolean, true 条件成立,false 条件不成立
  */
 public class demo01 {
     public static void main(String[] args) {

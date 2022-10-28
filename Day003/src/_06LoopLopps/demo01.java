@@ -13,7 +13,7 @@ public class demo01 {
         //1,输出3次hello world
         for (int i = 0; i < 3; i++) {
             System.out.println(i+"Hello World");
-            //循环体语句，需要重复执行的语句
+            //循环体语句,需要重复执行的语句
         }
         }
     }

@@ -7,7 +7,7 @@ public class variables {
 
 
         //定义一个整数类型的变量
-        //把数据10复制给了a，a储存了数据10
+        //把数据10复制给了a,a储存了数据10
         int a = 10;
         System.out.println(a);//10
 

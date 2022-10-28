@@ -1,7 +1,7 @@
 package _02MethodsReturnValue;
 /*
-定义一个方法getAvg(),让一个整数数组累加，并返回
-定义main()方法，调用getAvg()方法，接收返回值并打印
+定义一个方法getAvg(),让一个整数数组累加,并返回
+定义main()方法,调用getAvg()方法,接收返回值并打印
 
  */
 public class demo02practice {

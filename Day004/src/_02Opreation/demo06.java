@@ -4,12 +4,12 @@ import java.util.Random;
 
 /*
 有以下数组：int[] arr = new int[5];
-随机产生5个1-100的整数，储存到数组中
+随机产生5个1-100的整数,储存到数组中
 打印每个值
  */
 public class demo06 {
     public static void main(String[] args) {
-        //1,定义一个数组，长度为5
+        //1,定义一个数组,长度为5
         int[] arr=new int[5];
         //2,随机产生5个随机数
         Random r = new Random();

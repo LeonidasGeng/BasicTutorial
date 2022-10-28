@@ -2,7 +2,7 @@ package _07siwthc;
 
 import java.util.Scanner;
 
-//当case中的语句执行完毕，没有break时，程序会无条件执行后面的case或者default中的语句
+//当case中的语句执行完毕,没有break时,程序会无条件执行后面的case或者default中的语句
 //直到遇到break语句或者整个switch语句结束为止
 public class demo02 {
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class demo02 {
             case 2:
                 System.out.println("正常");
             default:
-                System.out.println("土豪，请跟我做朋友");
+                System.out.println("土豪,请跟我做朋友");
                 break;
 
         }

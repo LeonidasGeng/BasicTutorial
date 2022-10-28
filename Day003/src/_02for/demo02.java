@@ -1,8 +1,8 @@
 package _02for;
 /*
 for循环输出：
-1， 1~5
-2， 5~1
+1, 1~5
+2, 5~1
 
 System.out.println("Hello World!");     带有换行功能
 System.out.print  ("Hello World!");     不带有换行功能

@@ -11,7 +11,7 @@ public class demo02 {
         arr[2]=12;
 
         String[] arr2 = {"张三","张三","张三","张三","张三","张三","张三","张三","张三","张三","张三","张三","张三","张三","张三","张三","张三","张三"};
-        System.out.println(arr2.length);//18个，print出来是12个
+        System.out.println(arr2.length);//18个,print出来是12个
         for (int i = 0; i < arr2.length; i++) {       //arr.fori
             System.out.println(arr2[i]);
         }

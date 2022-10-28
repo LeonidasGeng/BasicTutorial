@@ -3,7 +3,7 @@ package _08case;
 import java.util.Scanner;
 
 /*
-输入3个数字，比较大小，输出最大的那个数
+输入3个数字,比较大小,输出最大的那个数
  */
 public class assignment {
     public static void main(String[] args) {

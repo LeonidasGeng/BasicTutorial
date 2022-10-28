@@ -1,5 +1,5 @@
 package _07siwthc;
-//输入月份，判断季节
+//输入月份,判断季节
 
 import java.util.Scanner;
 

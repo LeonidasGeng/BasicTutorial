@@ -3,7 +3,7 @@ package _06if;
 import java.util.Scanner;
 
 /*
-case1: 用户名与密码，如果都正确，输出登陆成功
+case1: 用户名与密码,如果都正确,输出登陆成功
 格式1：
     if(关系表达式/Boolean){
         符合条件就执行的语句
@@ -33,12 +33,12 @@ public class demo01 {
         第二种写法
         格式
         if(boolean){
-            语句1；boolean值为true，执行语句1
+            语句1；boolean值为true,执行语句1
         }else{
-            语句2；boolean值为true，执行语句2
+            语句2；boolean值为true,执行语句2
         }
          */
-        //如果正确，输出登陆成功，否则输出：登陆失败！
+        //如果正确,输出登陆成功,否则输出：登陆失败！
         if(qqIpt==qqNum && qqPwd==pwdIpt){
             System.out.println("登陆成功！");
         }else{

@@ -7,7 +7,7 @@ package _07randomNumber;
 import java.util.Random;
 
 /*
-随机数的写法是固定的，作用: 随机产生一个数字
+随机数的写法是固定的,作用: 随机产生一个数字
 
 写法:
     1, 导包;

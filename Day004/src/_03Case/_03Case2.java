@@ -3,10 +3,10 @@ package _03Case;
 import java.util.Random;
 
 /*
-双色球,6个红球，1个蓝球
-1，6个红球，1-33之间
-2，1个蓝球，1-16之间
-3，暂时不考虑重复，排序问题
+双色球,6个红球,1个蓝球
+1,6个红球,1-33之间
+2,1个蓝球,1-16之间
+3,暂时不考虑重复,排序问题
  */
 public class _03Case2 {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package _01Methods;
 /*
-打印两个广告，一个循环3次，一个循环2次
+打印两个广告,一个循环3次,一个循环2次
 
  */
 public class demo03practiceAlternative1 {

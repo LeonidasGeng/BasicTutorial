@@ -1,10 +1,10 @@
 package _01Methods;
 /*
 1:
-定义一个方法，getMax,可以求出两个整数的最大值（未知参数），并打印结果
+定义一个方法,getMax,可以求出两个整数的最大值（未知参数）,并打印结果
 
 2:
-定义一个方法，printStudent,可以打印一个学生的姓名，性别，年龄
+定义一个方法,printStudent,可以打印一个学生的姓名,性别,年龄
  */
 public class demo04 {
     public static void main(String[] args) {

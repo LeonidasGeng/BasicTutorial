@@ -3,12 +3,12 @@ package _03Case;
 import java.util.Scanner;
 
 /*
-输入10个同学的成绩，输出他们的最高分，最低分，平均成绩
-减少遍历次数，减少代码编写
+输入10个同学的成绩,输出他们的最高分,最低分,平均成绩
+减少遍历次数,减少代码编写
  */
 public class _02Case1ez {
     public static void main(String[] args) {
-        //1,定义一个数组，长度为10，为同学的成绩
+        //1,定义一个数组,长度为10,为同学的成绩
         int[] arr = new int[10];
         //2,输入每个学生的成绩
         Scanner sc = new Scanner(System.in);
@@ -21,7 +21,7 @@ public class _02Case1ez {
         //3,求平均成绩
         //累加所有人的成绩
         int sum = 0;
-        //3,最高分，最大值
+        //3,最高分,最大值
         int max = arr[0];
         int min = arr[0];
         for (int i = 0; i < arr.length; i++) {
