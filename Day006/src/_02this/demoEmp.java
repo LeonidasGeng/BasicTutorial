@@ -5,7 +5,7 @@ package _02this;
 
 解决这个问题：
 this 关键字
-    waa
+    代表当前方法的调用者对象
 
  */
 public class demoEmp {
