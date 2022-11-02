@@ -1,4 +1,5 @@
-package _04Encapsulation;
+package _03Encapsulation;
+
 /*
 问题：数据不安全，赋值不合理的数据
 
@@ -21,13 +22,12 @@ public class StudentDemo {
         //1, 创建一个学生对象
         Student s = new Student();
         //2, 给学生的属性赋值
-        s.stuName= "小李";
+        s.stuName = "小李";
         s.setStuAge(19);
         //访问学生的属性
-        System.out.println("学生姓名: "+s.stuName+" 学生年龄: "+s.getStuAge());
+        System.out.println("学生姓名: " + s.stuName + " 学生年龄: " + s.getStuAge());
         s.print();
     }
-
 
 
 }
