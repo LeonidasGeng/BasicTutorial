@@ -15,8 +15,15 @@ public class demo01 {
         
         //遍历该字符串的每一个字符
         for (int i = 0; i < str.length(); i++) {
-            System.out.print(str.charAt(i));
+            System.out.println(str.charAt(i));
             
+        }
+
+        int[] arr = {1,2,3,4,5};
+        System.out.println("数组的元素: ");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i]+",");
+
         }
     }
 }
