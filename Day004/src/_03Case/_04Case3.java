@@ -33,6 +33,6 @@ public class _04Case3 {
             endIndex--;
         }
         System.out.println("是否破解成功？"+flag);
-
+    
     }
 }
