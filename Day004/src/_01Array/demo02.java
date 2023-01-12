@@ -21,7 +21,6 @@ public class demo02 {
 //        System.out.println(arr[2]);
         for (int i = 0; i < 3; i++) {
             System.out.println(arr[i]);
-
         }
     }
 }
